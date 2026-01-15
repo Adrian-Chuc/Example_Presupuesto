@@ -1,0 +1,5 @@
+{
+  "name": "NetSuite Hierarchical Budgeting System",
+  "description": "A sophisticated multi-level budgeting tool for NetSuite that ensures strict hierarchical financial distribution across subsidiaries, departments, locations, and GL accounts.",
+  "requestFramePermissions": []
+}
